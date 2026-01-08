@@ -2,7 +2,8 @@
 
 **Universidad de Cuenca - Facultad de Ingeniería** **Curso de Circuitos de Radiofrecuencia** *Septiembre 2024 - Febrero 2025*
 
-![Banner o Foto del Proyecto](ruta_de_tu_imagen_aqui.png) 
+<img width="213" height="81" alt="image" src="https://github.com/user-attachments/assets/e05b561b-fb34-4922-acbb-b1871a81f200" />
+
 ## 📋 Descripción del Proyecto
 Este proyecto implementa una estación de transmisión de televisión analógica completamente funcional bajo el estándar **NTSC-M**, utilizando tecnología de Radio Definida por Software (SDR). 
 
@@ -48,7 +49,8 @@ El proyecto se desarrolló siguiendo un diseño híbrido (Hardware + Software):
 
 | Montaje SDR y Amplificador | Recepción en TV Comercial |
 |:--------------------------:|:-------------------------:|
-| ![SDR Setup](ruta_foto_montaje.png) | ![TV Result](ruta_foto_tv.png) |
+<img width="447" height="285" alt="image" src="https://github.com/user-attachments/assets/d06c0bf1-849b-4561-a835-39be2a2817af" />
+
 ## 📝 Conclusiones
 
 1.  La arquitectura SDR permite cambiar de estándar (NTSC/PAL) o frecuencia sin modificar el hardware físico.
