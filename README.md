@@ -65,38 +65,6 @@ graph LR
 
 ---
 
-## 🚀 Guía de Uso
-
-### Instalación
-
-Sistema operativo requerido: **Linux (Ubuntu / Debian / Kali)**
-
-```bash
-sudo apt update
-sudo apt install hackrf libhackrf-dev fftw3-dev
-```
-
-Clonar y compilar `hacktv`:
-
-```bash
-git clone https://github.com/fsphil/hacktv.git
-cd hacktv
-make
-sudo make install
-```
-
----
-
-### Transmisión
-
-Ejemplo de transmisión en **Canal 14 UHF (471.25 MHz)** con ganancia de 40 dB:
-
-```bash
-hacktv -f 471250000 -g 40 -s 20000000 input_video.mp4
-```
-
----
-
 ## 📸 Evidencia Experimental
 
 ### Montaje Experimental
